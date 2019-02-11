@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.oracle:ojdbc8:12.2.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/oracle/ojdbc8/12.2.0/ojdbc8-12.2.0.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/com/oracle/ojdbc8/12.2.0" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/oracle/ojdbc8/12.2.0/ojdbc8-12.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/oracle/ojdbc8/12.2.0/ojdbc8-12.2.0-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/com/oracle/ojdbc8/12.2.0" recursive="false" />
+  </library>
+</component>
